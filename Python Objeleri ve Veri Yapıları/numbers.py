@@ -1,7 +1,9 @@
 print(7+3)
-
 print(8.0+2)
-
 print(3*5)
-
 print(3.2*9)
+print(2**3)
+print(10/3)
+print(20//6)
+print(-40//7)
+print(10%3)
