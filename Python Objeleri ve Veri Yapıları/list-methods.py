@@ -32,7 +32,7 @@ numbers.pop()
 print(numbers)
 numbers.pop(0)
 print(numbers)
-#silmek istediğinkarakteri yazarak listeden çıkarmak için
+#silmek istediğin karakteri yazarak listeden çıkarmak için
 numbers.remove(5)
 print(numbers)
 #listeyi sıralı yazdırmak için
