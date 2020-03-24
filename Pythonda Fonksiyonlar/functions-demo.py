@@ -18,6 +18,7 @@ result=ListeyeCevir(1,2,3,4,'selam')
 print(result)"""
 
 #3-Gönderilen iki sayı arasındaki tüm asal sayıları bulun.
+
 """
 def AsalSayilariBul(value1, value2):
     for num in range(value1, value2):
