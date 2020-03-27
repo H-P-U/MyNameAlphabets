@@ -3,9 +3,11 @@
 class Person:
    # pass #yer tutar, kodun hata vermeden devamını sağlar
     #class attributes
-   adress='no information'
+    adress='no information'
+
     #constructur
-    def __init__(self, name, year):
+
+    def __init__(self,name,year):
         #object attributes
         self.name= name
         self.year= year
